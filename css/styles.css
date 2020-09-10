@@ -39,5 +39,10 @@ a {
 
 .topnav a.active {
   background-color: #4CAF50;
-  color: white;
+  color: rgb(255, 255, 255);
+}
+
+#information {
+  color: chocolate;
+  font-style: italic;
 }
