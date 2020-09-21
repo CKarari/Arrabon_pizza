@@ -133,3 +133,7 @@ transition: all 0.2s;
   padding-right: 16px;
   padding-left: 16px;
 }
+.responsive{
+  width: 100%;
+  height: auto;
+}
